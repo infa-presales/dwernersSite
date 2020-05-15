@@ -1,6 +1,6 @@
-# My Page
+# EMEA Demo Environment
 
-## Subsection 1
+## Rules
 
 ### Subsubsectpion 1.1
 
