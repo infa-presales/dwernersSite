@@ -25,7 +25,9 @@ This is a regular paragraph.
  </tr>
 <tr>
     <td>Lorem ipsumr2c1...</td>
-    <td>Lorem ipsumr2c2 ...</td>
+    <td>Lorem ipsumr2c2 ...</td>    
+    <td>Lorem ipsumr3c2 ...</td>
+    <td>Lorem ipsumr4c2 ...</td>
  </tr>
 </table>
 
