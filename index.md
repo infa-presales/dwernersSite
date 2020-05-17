@@ -20,7 +20,7 @@ This is a regular paragraph.
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsumr1c1...</td>
+    <td>Lorem *ipsumr1c1*...</td>
     <td>Lorem ipsumr1c2 ...</td>
  </tr>
 <tr>
