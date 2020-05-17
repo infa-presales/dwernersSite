@@ -16,8 +16,8 @@ This is a regular paragraph.
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><b style="font-size:20px">Title</b></td>
+    <td><b style="font-size:20px">Title 2</b></td>
  </tr>
  <tr>
     <td>Lorem ```ipsumr1c1```...</td>
